@@ -1,2 +1,0 @@
-# simulado
-simulado da prova
